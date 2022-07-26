@@ -13,4 +13,4 @@ To initialize a new trial, the white LED in the center port is turned on and the
 - Look at the template implementation of the Light Chasing Task at the BEADL [online documentation](https://beadl.github.io/BEADL_Designer/BEADL_Template_LightChasingTask.html)
 
 ## Possible Task Implementation
-One possible BEADL implementation of this task can be downloaded [here]() as `.json` file that can be imported into the user's workspace.
+One possible BEADL implementation of this task can be downloaded [here](Exampl_2AFC.json) as `.json` file that can be imported into the user's workspace.
